@@ -1,5 +1,5 @@
 1.Clone the repository
 2.Open up a Java IDE such as Eclipse or InteliJ or Netbeans
 3.Import the Project
-4.Run the main Java File.
+4.Run the main Java File. (main.java)
 Note**: These instructions work for Java 8. Additional configurations are needed for Java 11 because JavaFX package was removed in Java 11. 
